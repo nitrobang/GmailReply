@@ -2,7 +2,7 @@
 
 ### Project Description
 
-This program is designed to automate responses to new unread emails and organize them by moving them to a labeled category called "Vacation Mail." The behavior of the responses is defined in a configuration file (.env), allowing customization of the email address and message content.
+This program is designed to automate responses to new unread emails and organize them by moving them to a labeled category called "OOO" The behavior of the responses is defined in a configuration file (.env), allowing customization of the email address and message content.
 
 ### Setup Instructions
 
@@ -24,7 +24,7 @@ This program is designed to automate responses to new unread emails and organize
 
 * The program will automatically check for new unread emails.
 * Responses to emails will be crafted based on the message defined in the .env file.
-* After responding, the emails will be organized and moved to a pre-defined label called "Vacation Mail."
+* After responding, the emails will be organized and moved to a pre-defined label called "OOO"
 
 ### Notes for Users
 
