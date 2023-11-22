@@ -1,5 +1,4 @@
 
-## Task Overview
 
 ### Project Description
 
